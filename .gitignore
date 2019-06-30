@@ -1,3 +1,4 @@
-/.idea
-/__pycache__
+/Train_Model/.idea
+/Use_Model/.idea
+/*/__pycache__
 *.iml
