@@ -11,7 +11,7 @@ import re
 from PIL import Image,ImageFilter
 import torch
 from torch.utils import data
-import file_walker
+import FileWalker
 
 
 class ImageDatasets(data.Dataset):
