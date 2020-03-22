@@ -5,9 +5,8 @@
 ![GitHub issues](https://img.shields.io/github/issues/marcalcarazf/realtime-2D-to-3D-faces.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/marcalcarazf/realtime-2D-to-3D-faces.svg)  
   
-<p align="center">
 ![Avatar_Moving](./Readme_Images/Avatar_Moving.gif)
-</p>
+
 
 ## Introduction
 In this project, an infrastructure capable of reconstructing real-time 3D
