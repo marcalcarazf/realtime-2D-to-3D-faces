@@ -29,7 +29,7 @@ Finally, these coordinates are used to reconstruct and draw the 3D point
 cloud using WebGL Studio.
 
 ## Creating the PCA Model and the Meshes for WebGlStudio
-![3D_Meshes_Generation](./Readme_Images/3D_Meshes_Generation_Small.png)
+![3D_Meshes_Generation](./Readme_Images/3D_Meshes_Generation_Cut_Small.png)
 
 ## Training the main model
 ![Train_Model](./Readme_Images/Train_Model_Small.png)
