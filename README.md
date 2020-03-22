@@ -35,7 +35,7 @@ cloud using WebGL Studio.
 ![Train_Model](./Readme_Images/Train_Model_Small.png)
 
 ## Using the model
-![Use_Model](./Readme_Images/Use_Model_Small.png)
+![Use_Model](./Readme_Images/Use_Model_Small3.png)
 
 ## Results
 ![Avatar](./Readme_Images/Avatar_Small.png)  
