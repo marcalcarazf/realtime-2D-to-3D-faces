@@ -29,20 +29,20 @@ Finally, these coordinates are used to reconstruct and draw the 3D point
 cloud using WebGL Studio.
 
 ## Creating the PCA Model and the Meshes for WebGlStudio
-![3D_Meshes_Generation](./Readme_Images/3D_Meshes_Generation.png)
+![3D_Meshes_Generation](./Readme_Images/3D_Meshes_Generation_Small.png)
 
 ## Training the main model
 ![Train_Model](./Readme_Images/Train_Model_Small.png)
 
 ## Using the model
-![Use_Model](./Readme_Images/Use_Model.png)
+![Use_Model](./Readme_Images/Use_Model_Small.png)
 
 ## Results
-![Avatar](./Readme_Images/Avatar.png)  
+![Avatar](./Readme_Images/Avatar_Small.png)  
 
 ## Assets
 ##### Used texture (manually made just to test the system):
-![Texture](./Readme_Images/Texture.jpg)
+![Texture](./Readme_Images/Texture_Small.jpg)
 
 ## Authors
 * **Marc Alcaraz** - *Project author* - [marcalcarazf](https://github.com/marcalcarazf/)
