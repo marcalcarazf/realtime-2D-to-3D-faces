@@ -32,17 +32,13 @@ cloud using WebGL Studio.
 ![3D_Meshes_Generation](./Readme_Images/3D_Meshes_Generation.png)
 
 ## Training the main model
-![Train_Model](./Readme_Images/Train_Model.png)
+![Train_Model](./Readme_Images/Train_Model_Small.png)
 
 ## Using the model
 ![Use_Model](./Readme_Images/Use_Model.png)
 
 ## Results
-![Smiling](./Readme_Images/Smiling.png)
-![Avatar_Up](./Readme_Images/Avatar_Up.png)
-![Avatar_Down](./Readme_Images/Avatar_Down.png)
-![Avatar_Left](./Readme_Images/Avatar_Left.png)
-![Avatar_Right](./Readme_Images/Avatar_Right.png)
+![Avatar](./Readme_Images/Avatar.png)  
 
 ## Assets
 ##### Used texture (manually made just to test the system):
