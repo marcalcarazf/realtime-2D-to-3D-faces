@@ -44,6 +44,13 @@ cloud using WebGL Studio.
 ##### Used texture (manually made just to test the system):
 ![Texture](./Readme_Images/Texture_Small.jpg)
 
+## Disclaimers
+* AFLW2000-3D is not included.
+* 3DDFA and PCA implementations are not included.
+* Trained PCA Model and Main Model are not included.
+* You have all steps summarized in images, if you need more details send me a message. 
+* WebGlStudio part is not explained but you can contact me if you need more information.
+
 ## Authors
 * **Marc Alcaraz** - *Project author* - [marcalcarazf](https://github.com/marcalcarazf/)
 * **Decky Aspandi** - *Original training scripts author* - [deckyal](https://github.com/deckyal/)
